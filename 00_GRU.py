@@ -1,6 +1,14 @@
 """
 Based on eaxmples of how to execute existing implementation of GRU and GRUCell
 
+Written by:
+Alejandro Granados
+School of Biomedical Engineering and Patient Sciences, King's College London, UK
+
+Contact:
+alejandro.granados@kcl.ac.uk
+agranados.eu@gmail.com
+
 █←↑→↓⬤ 🡤🡥🡧🡦
 """
 
